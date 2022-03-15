@@ -1,4 +1,8 @@
-# My Website
+#git Bash Testing and merging to GitHub
+
+This is a test for practicing git bash
+
+## My Website
 
 This is a really awesome website
 
