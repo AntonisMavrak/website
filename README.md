@@ -1,4 +1,4 @@
-#git Bash Testing and merging to GitHub
+# git Bash Testing and merging to GitHub
 
 This is a test for practicing git bash
 
